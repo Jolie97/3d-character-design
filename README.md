@@ -88,7 +88,7 @@ Imported the character into Unity and:
 ## Screenshots
 
 ### Character Front View
-![Character Front View](images/character_ front_view.jpg)
+![Character Front View](images/character_front_view.jpg)
 
 ---
 
